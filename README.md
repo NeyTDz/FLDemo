@@ -48,7 +48,7 @@ The Server only needs a TCP socket
 
 ## Example
 
-运行系统只需执行：
+To run the system, do:
 
 ```
 python main.py
